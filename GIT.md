@@ -59,18 +59,18 @@ Trong đó, bạn cần lưu ý:
 
 ## Git clone, push, pull, fetch, merge, add, commit?
 
-- **Git Clone:** Lệnh này được sử dụng để sao chép một kho lưu trữ (repository) từ một kho chứa từ xa (remote repository) vào máy tính của bạn
-- **Git Push:** Lệnh này được sử dụng để đẩy (push) các thay đổi từ máy tính của bạn lên kho chứa từ xa.
+- **Git clone:** Lệnh này được sử dụng để sao chép một kho lưu trữ (repository) từ một kho chứa từ xa (remote repository) vào máy tính của bạn
+- **Git push:** Lệnh này được sử dụng để đẩy (push) các thay đổi từ máy tính của bạn lên kho chứa từ xa.
 
-- **Git Pull:** Lệnh này được sử dụng để cập nhật mã nguồn từ kho chứa từ xa và tự động thực hiện một quá trình Merge (hợp nhất) để hợp nhất các thay đổi từ kho chứa từ xa vào nhánh hiện tại trên máy tính của bạn.
+- **Git pull:** Lệnh này được sử dụng để cập nhật mã nguồn từ kho chứa từ xa và tự động thực hiện một quá trình Merge (hợp nhất) để hợp nhất các thay đổi từ kho chứa từ xa vào nhánh hiện tại trên máy tính của bạn.
 
-- **Git Fetch:** Lệnh này được sử dụng để tải thông tin từ kho chứa từ xa mà không hợp nhất (merge) các thay đổi vào mã nguồn của bạn.
+- **Git fetch:** Lệnh này được sử dụng để tải thông tin từ kho chứa từ xa mà không hợp nhất (merge) các thay đổi vào mã nguồn của bạn.
 
-- **Git Merge:** Lệnh này được sử dụng để hợp nhất các nhánh khác nhau lại với nhau. Thường được sử dụng sau khi bạn đã có các thay đổi từ một nhánh khác (thông qua Git Pull hoặc thao tác khác).
+- **Git merge:** Lệnh này được sử dụng để hợp nhất các nhánh khác nhau lại với nhau. Thường được sử dụng sau khi bạn đã có các thay đổi từ một nhánh khác (thông qua Git Pull hoặc thao tác khác).
 
-- **Git Add:** Lệnh này được sử dụng để đánh dấu (staging) các tệp tin hoặc thư mục đã thay đổi để chuẩn bị cho việc commit.
+- **Git add:** Lệnh này được sử dụng để đánh dấu (staging) các tệp tin hoặc thư mục đã thay đổi để chuẩn bị cho việc commit.
 
-- **Git Commit:** Lệnh này được sử dụng để lưu trạng thái hiện tại của các tệp đã được đánh dấu (staged) trong một lịch sử phiên bản.
+- **Git commit:** Lệnh này được sử dụng để lưu trạng thái hiện tại của các tệp đã được đánh dấu (staged) trong một lịch sử phiên bản.
 
 ## Các trạng thái của files trong git là gì?
 
